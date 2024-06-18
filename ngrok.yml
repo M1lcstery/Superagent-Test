@@ -1,0 +1,7 @@
+version: "2"
+authtoken: 2hUDcsYO2SroVZauvMo1IKhj1s5_68W8FUNhWkNsPY6dXXZJd
+
+tunnels:
+  whatsapp:
+    proto: http
+    addr: 5000  # Matches the port in server.py

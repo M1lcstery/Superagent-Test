@@ -1,0 +1,7 @@
+1. Prender servidor de Flask
+2. Prender NGrok
+2. Crear Webhook de WhatsApp
+3. Recibir mensaje de WhatsApp
+4. Procesar mensaje de Whatsapp con la IA
+5. Una vez procesado el mensaje, usar VAPI para crear un audio a partir de la respuesta
+6. Enviar el audio al usuario
